@@ -2,7 +2,8 @@
 
 This is the reference PyTorch implementation for the following paper:
 
-* A Global Occlusion-Aware Approach to Self-Supervised Monocular Visual Odometry
+> [**A Global Occlusion-Aware Approach to Self-Supervised Monocular Visual Odometry**](https://ojs.aaai.org/index.php/AAAI/article/view/16325/16132) (AAAI 2021)<br>
+> Yao Lu, Xiaoli Xu, Mingyu Ding, Zhiwu Lu, Tao Xiang<br>
 
 ## Abstract
 
@@ -69,6 +70,18 @@ From top to bottom: sample image, estimated depth, attention map, overlay of the
 
 ![](./figures/1.png)
 
+## Citation
+If this repo helps in your work, please cite the following paper:
+
+```
+@InProceedings{Yao_2021_AAAI,
+    author    = {Yao Lu and Xiaoli Xu and Mingyu Ding and Zhiwu Lu and Tao Xiang},
+    title     = {A Global Occlusion-Aware Approach to Self-Supervised Monocular Visual Odometry},
+    booktitle = {AAAI Conference on Artificial Intelligence (AAAI)},
+    year      = {2021},
+    pages     = {2260--2268}
+}
+```
 
 ## Acknowledgement
 
