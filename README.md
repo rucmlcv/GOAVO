@@ -1,6 +1,6 @@
 # A Global Occlusion-Aware Approach to Self-Supervised Monocular Visual Odometry (AAAI 2021)
 
-This is the reference PyTorch implementation for the following paper:
+This is the official PyTorch implementation for the following paper:
 
 > [**A Global Occlusion-Aware Approach to Self-Supervised Monocular Visual Odometry**](https://ojs.aaai.org/index.php/AAAI/article/view/16325/16132) (AAAI 2021)<br>
 > Yao Lu, Xiaoli Xu, Mingyu Ding, Zhiwu Lu, Tao Xiang<br>
